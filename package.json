@@ -1,0 +1,25 @@
+{
+  "name": "chatappdummybackened",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyapsr13/chatappdummybackened.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyapsr13/chatappdummybackened/issues"
+  },
+  "homepage": "https://github.com/satyapsr13/chatappdummybackened#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
